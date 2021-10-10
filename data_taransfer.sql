@@ -341,7 +341,6 @@ CREATE TABLE "t_user" (
 -- Records of t_user
 -- ----------------------------
 BEGIN;
-INSERT INTO "t_user" VALUES (1, 'shtiroy', '$2a$12$JWRd.F4n/jK/K7Balkn.D.7WJoZLg69TO1tWZWOVQtc/cm/CBmUOS', 1, 't', 'ШТИРОЙ', 'АЛЕКСАНДР', 'stiroisasa@gmail.com', NULL, '2021-10-09 08:15:21.677');
 COMMIT;
 
 -- ----------------------------
